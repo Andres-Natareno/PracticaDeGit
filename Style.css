@@ -4,16 +4,22 @@ h1 {
     font-size: 5rem;
     text-align: center;
 }
-div {
+.parrafos {
     width: 50%;
     margin: auto;
     border: 2px solid black;
     text-align: center;
 }
+.parrafos p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+}
 .cabecera {
     width: 90%;
     background-color: aliceblue;
     border: 2px solid brown;
+    margin: auto;
+    text-align: center;
 }
 img {
     width: 100px;
