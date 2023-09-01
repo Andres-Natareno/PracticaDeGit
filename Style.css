@@ -10,3 +10,11 @@ div {
     border: 2px solid black;
     text-align: center;
 }
+.cabecera {
+    width: 90%;
+    background-color: aliceblue;
+    border: 2px solid brown;
+}
+img {
+    width: 100px;
+}
